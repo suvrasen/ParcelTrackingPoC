@@ -1,0 +1,6 @@
+@ParcelCreate_HostAddress = http://localhost:5086
+
+GET {{ParcelCreate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
