@@ -7,7 +7,7 @@ This application has four key components
 - Azure Event Hub
 - Azure Functions
 - Azure Cosmos DB
-![Tracking PoC Diagram](img/TrackingPoC.png)
+# ![Tracking PoC Diagram](img/TrackingPoC.png)
 
 ### .Net Core Web API
 ### Azure Event Hub
