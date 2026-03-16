@@ -104,3 +104,6 @@ Scan event for Destination Sort
 	"eventType": "DEST_SORT"
 }
 ```
+## Future Architecture
+Following diagram shows future architecture of the application.
+# ![Tracking Future Architecture](img/ParcelPoC-Prod.drawio.png)
